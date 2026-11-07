@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "transformers-mic",
+  "versions": [
+    {
+      "commit": "fa648220c4d566c5a23bbecbde2465c685a15754",
+      "tag": "",
+      "parsed_at": "2026-11-07T22:12:27.203777+00:00"
+    }
+  ]
+}
